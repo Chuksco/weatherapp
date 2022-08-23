@@ -3,7 +3,7 @@ import "./footer.css";
 const Footer = () => {
     return (
         <div className="footer"> Designed with love by
-            <a href="#"> Chukwukamso Onu</a>
+            <a href="https://linktr.ee/chuksonu"> Chukwukamso Onu</a>
         </div>
     )
 }
