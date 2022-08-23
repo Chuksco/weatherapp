@@ -7,3 +7,14 @@
 a{
     text-decoration: none;
 }
+
+@media screen and (max-width: 600px) {
+    .footer {
+      color: #757575;
+      margin: 20px auto 20px auto;
+      align-items: center;
+    }
+    a{
+        text-decoration: none;
+    }
+  }
