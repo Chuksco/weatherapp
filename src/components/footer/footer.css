@@ -1,5 +1,8 @@
 .footer{
     color: #757575;
-    display: flex;
-    margin: 20px auto 20px auto;
+    margin: 20px 450px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
 }
